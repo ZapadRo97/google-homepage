@@ -1,0 +1,109 @@
+#topbar{
+
+	float:right;
+	height:50px;
+	margin-right:10px;
+	margin-top:6px;
+}
+
+
+
+#main-content{
+	
+	clear:both;
+	margin: 0 auto;
+	width: 40%;
+	position: absolute;
+    top: 50%;
+    left: 55%;
+    height: 40%;
+    margin: -15% 0 0 -25%;
+}
+
+#textbar{
+	width:100%;
+	margin-bottom:20px;
+	margin-top:10px;
+	height:30px;
+}
+
+#buttons{
+	width:50%;
+	margin:0 auto;
+
+}
+
+#subb{
+	margin-right:10px;
+}
+
+img{
+
+	width:100%;
+}
+
+#botbar{
+	height:50px;
+	background-color:#ddd;
+	width:100%;
+	position:absolute;
+	bottom:0px;
+	margin-left:-0.6%;
+	border-radius:5px 5px 0 0;
+	border-top: 1px solid #ccc;
+}
+
+.left{
+	float:left;
+	line-height:50px;
+	margin-right:5px;
+	margin-left:5px;
+}
+
+.right{
+	float:right;
+	line-height:50px;
+	margin-left:5px;
+	margin-right:5px;
+}
+
+a{
+	text-decoration:none;
+	color:#333;
+}
+
+a:hover{
+	text-decoration:underline;
+	color:#222;
+}
+
+.butt{
+	height:30px;
+	border:1px solid #eee;
+	color: #333;
+	background-color:#eee;
+}
+
+.butt:hover{
+border:1px solid #ccc;
+color: #222;
+}
+
+#sign-in{
+	height:30px;
+	color:black;
+	background-color: #4285fd;
+	border:1px solid #4285f4;
+	border-radius:2px;
+	margin-left:4px;
+	color:white;
+	width:70px;
+}
+
+#sign-in:hover{
+	box-shadow: 0 1px 0 rgba(0,0,0,.15);
+}
+
+#topbar>a{
+	margin-right:10px;
+}
